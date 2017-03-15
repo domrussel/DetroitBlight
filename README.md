@@ -4,4 +4,4 @@ Ideas for future development:
 - Lat-long hook up to other data sets (crime rate, etc.)
 - Type of violation
 - Past violators who have paid
-- Business vs not business
+- Disposition reason
